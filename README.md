@@ -1,2 +1,2 @@
 # repoForCodePath
-repo for code path simple todo project
+repo for code path simple todo project submission.
